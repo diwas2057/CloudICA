@@ -1,6 +1,6 @@
 name: Variables Scope Demo
 env:
-  MY_WORKFLOW_VARIABLE: "This is a workflow-level variable"
+  MY_WORKFLOW_VARIABLE: "This is my new workflow-level variable"
 
 on:
   push:
